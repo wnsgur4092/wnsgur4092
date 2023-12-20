@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **junhyuk.lim@outlook.com**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dasom222g&label=Profile%20views&color=0e75b6&style=flat" alt="dasom222g" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wnsgur4092&label=Profile%20views&color=0e75b6&style=flat" alt="wnsgur4092" /> </p>
 
 <h3 align="left">languages and tools</h3>
 <br />
