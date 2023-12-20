@@ -1,51 +1,59 @@
 ### About me
+<!-- Header -->
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Nice to see you.</h1>
 
-<a href="https://instagram.com/jun_in_sydney" target="_blank">
-  <img align="left" alt="Jun's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://linkedin.com/in/juninsydney" target="_blank">
-  <img align="left" alt="dasom's LinkedIN" width="22px" src="https://cdn.simpleicons.org/linkedin" />
-</a>
+<h2>
+  🙋🏻‍♂️ Welcome to my Jun's Github!   <img src="https://img.shields.io/github/followers/wnsgur4092?style=social" alt="github followers" height="20" /> 
+</h2>
 
-<br />
+I'm Jun, an <b><i>iOS developer</i></b> from <b>South Korea 🇰🇷</b>, now living in <b>Sydney, Australia 🇦🇺</b>. 
 
-<h1 align="left">Hi 👋 This is Jun Lim, a iOS developer who codes dreams.</h1>
-<h3 align="left">I am working with the mission of change the world a better than yesterday!</h3>
+- 🔑 Specializing in Swift, I focus on creating seamless, user-friendly mobile applications.
 
-<!-- - 👩‍💻 All of my projects are available at [https://charmed-summer-94a.notion.site/20ca1bad28ea4011b5a224feb859cfc5](https://charmed-summer-94a.notion.site/20ca1bad28ea4011b5a224feb859cfc5) -->
+- 🧭 My work is driven by a passion for the latest in mobile technology, a commitment to ongoing learning, and a blend of technical skill and creative problem-solving.
 
-- 💬 Ask me about **Swift & iOS Development**
+- 💬 Ask me about **Swift & iOS Development**. I enjoy discussing tech trends, sharing insights on iOS advancements, and tackling complex projects.
 
-- 📫 How to reach me **junhyuk.lim@outlook.com**
+- 🌟 Passionate about the dynamic world of mobile tech, I aim to be at the cutting edge of the industry, creating intuitive and engaging apps.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wnsgur4092&label=Profile%20views&color=0e75b6&style=flat" alt="wnsgur4092" /> </p>
+- 🚀 I also mentor emerging developers, explore new technologies, and engage in open-source projects, always seeking to challenge the limits of iOS development.
 
-<h3 align="left">languages and tools</h3>
-<br />
-<p align="left">
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" height="30"/> 
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="30"/> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="30"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="30"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="30"/> 
-  </a> 
-  <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm"  height="30"/> 
-  </a> 
+<br><br> <!-- Added space -->
+<!-- Info -->
+<h3>📍 Where to find me</h3>
+<p>
+  <a href="https://github.com/wnsgur4092" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/juninsydney" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="mailto:junhyuk.lim@outlook.com" target="_blank"><img alt="Outlook" src="https://img.shields.io/badge/Outlook-0078D4.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
+</p>
 
-<br />
+<br><br> <!-- Added space -->
+<!-- Stack -->
+<h3>🔎 Languages & Tools</h3>
+<p>
+  <img alt="Swift" src="https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img alt="Realm" src="https://img.shields.io/badge/-Realm-39477F?style=flat-square&logo=realm&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
+  <img alt="Notion" src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white" />
+</p>
+
+
+
 <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
 
-<div>
-  <img src="https://img.shields.io/github/followers/wnsgur4092?style=social" alt="github followers" height="24" />
-</div>
+<br><br> <!-- Added space -->
 
-<h3 align="left">📈 my github stats</h3>
+<h3 align="left">📈 My github stats</h3>
 <br />
 
-<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wnsgur4092&show_icons=true&theme=gotham&locale=en" alt="wnsgur4092" /></p>
+<div align="center">
 
-<p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wnsgur4092&theme=gotham" alt="wnsgur4092" /></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=wnsgur4092&show_icons=true&theme=gotham&locale=en" style="height: 195px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wnsgur4092&layout=compact&show_icons=true&theme=gotham&locale=en" style="height: 195px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wnsgur4092&theme=gotham" alt="wnsgur4092" style="height: 195px;" />
+
+</div>
+
