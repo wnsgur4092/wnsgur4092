@@ -32,6 +32,7 @@ I'm Jun, an <b><i>iOS developer</i></b> from <b>South Korea 🇰🇷</b>, now li
 <h3>🔎 Languages & Tools</h3>
 <p>
   <img alt="Swift" src="https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white" />
+  <img alt="JavScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=333333"/>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   <img alt="Realm" src="https://img.shields.io/badge/-Realm-39477F?style=flat-square&logo=realm&logoColor=white" />
