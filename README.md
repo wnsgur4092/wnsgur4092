@@ -1,10 +1,8 @@
 ### About me
 <!-- Header -->
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Nice to see you.</h1>
-
-<h2>
-  🙋🏻‍♂️ Welcome to my Jun's Github!   <img src="https://img.shields.io/github/followers/wnsgur4092?style=social" alt="github followers" height="20" /> 
-</h2>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Nice to see you.<br>
+Welcome to my Jun's Github!   <img src="https://img.shields.io/github/followers/wnsgur4092?style=social" alt="github followers" height="20" /> 
+  </h1>
 
 I'm Jun, an <b><i>iOS developer</i></b> from <b>South Korea 🇰🇷</b>, now living in <b>Sydney, Australia 🇦🇺</b>. 
 
