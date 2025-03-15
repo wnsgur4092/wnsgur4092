@@ -40,21 +40,6 @@ I'm Jun, an <b><i>iOS developer</i></b> from <b>South Korea 🇰🇷</b>, now li
 </p>
 
 
-
-<!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
-
-<br><br> <!-- Added space -->
-
-<h3 align="left">📈 My github stats</h3>
-<br />
-
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=wnsgur4092&show_icons=true&theme=gotham&locale=en" style="height: 150px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wnsgur4092&layout=compact&show_icons=true&theme=gotham&locale=en" style="height: 150px;" />
-</div>
-
-
-<!--
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=wnsgur4092&show_icons=true&theme=gotham&locale=en" style="height: 195px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wnsgur4092&layout=compact&show_icons=true&theme=gotham&locale=en" style="height: 195px;" />
